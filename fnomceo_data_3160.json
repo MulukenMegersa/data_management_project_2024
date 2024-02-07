@@ -1,0 +1,3000 @@
+[
+    {
+        "person_id": "187709",
+        "surname": "BAMPA",
+        "first_name": "ADRIANO LUIGI",
+        "date_of_birth": "09/04/1946",
+        "birth_place": "VERONA (VR)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BAMPA ADRIANO LUIGI",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "10/05/2022",
+                "number": "0000048821"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/09/1977"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1977 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "EMATOLOGIA CLINICA E DI LABORATORIO ",
+                "year": "25/07/1980"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "584994",
+        "surname": "BAMPA",
+        "first_name": "BEATRICE",
+        "date_of_birth": "11/06/1990",
+        "birth_place": "VERONA (VR)",
+        "province": " VERONA (VR)",
+        "full_name": "DOTT.SSA BAMPA BEATRICE",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "VERONA",
+                "year": "30/09/2020",
+                "number": "0000009641"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "VERONA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "10/09/2020"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "372100",
+        "surname": "BAMPI",
+        "first_name": "FRITZ",
+        "date_of_birth": "25/04/1944",
+        "birth_place": "AUSTRIA (EE)",
+        "province": " BOLZANO (BZ)",
+        "full_name": "DOTT. BAMPI FRITZ",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "BOLZANO",
+                "year": "12/03/2001",
+                "number": "0000000321"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ESTERA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "1969 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "24/01/2024"
+    },
+    {
+        "person_id": "345667",
+        "surname": "BAMPI",
+        "first_name": "MICHELE",
+        "date_of_birth": "07/10/1948",
+        "birth_place": "TRIESTE (TS)",
+        "province": " UDINE (UD)",
+        "full_name": "DOTT. BAMPI MICHELE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "UDINE",
+                "year": "26/06/2019",
+                "number": "0000006067"
+            },
+            {
+                "province": "UDINE",
+                "year": "26/06/2019",
+                "number": "0000000739"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TRIESTE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "25/02/1976"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TRIESTE",
+                "name": "Medicina e Chirurgia ",
+                "year": "1976 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "TRIESTE",
+                "specializzazione_name": "OCULISTICA ",
+                "year": "10/07/1980"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "281321",
+        "surname": "BAMPI",
+        "first_name": "ROSANNA",
+        "date_of_birth": "11/07/1960",
+        "birth_place": "BRESSANONE * BRIXEN (BZ)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT.SSA BAMPI ROSANNA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "25/05/1989",
+                "number": "0000005117"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BRESCIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "14/03/1989"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BRESCIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1989 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "446761",
+        "surname": "BAMPI",
+        "first_name": "STEFANO",
+        "date_of_birth": "26/03/1984",
+        "birth_place": "TRIESTE (TS)",
+        "province": " TRIESTE (TS)",
+        "full_name": "Dott. BAMPI STEFANO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "TRIESTE",
+                "year": "15/01/2009",
+                "number": "0000000428"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TRIESTE",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "19/11/2008"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TRIESTE",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "2008 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "TRIESTE",
+                "specializzazione_name": "ORTOGNATODONZIA ",
+                "year": "20/12/2013"
+            }
+        ],
+        "last_update_date": "21/12/2023"
+    },
+    {
+        "person_id": "422801",
+        "surname": "BANA",
+        "first_name": "CRISTINA",
+        "date_of_birth": "11/01/1983",
+        "birth_place": "LECCO (LC)",
+        "province": " LECCO (LC)",
+        "full_name": "DOTT.SSA BANA CRISTINA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "LECCO",
+                "year": "15/04/2008",
+                "number": "0000001691"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "31/10/2007"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "2007 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "NEUROLOGIA ",
+                "year": "08/04/2013"
+            }
+        ],
+        "last_update_date": "19/12/2023"
+    },
+    {
+        "person_id": "414380",
+        "surname": "BANA",
+        "first_name": "GILBERTO",
+        "date_of_birth": "17/02/1949",
+        "birth_place": "PREMOLO (BG)",
+        "province": " LECCO (LC)",
+        "full_name": "DOTT. BANA GILBERTO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LECCO",
+                "year": "14/12/1993",
+                "number": "0000000313"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/07/1974"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1975 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "MALATTIE APPARATO CARDIOVASCOLARE ",
+                "year": "20/06/1977"
+            }
+        ],
+        "last_update_date": "19/12/2023"
+    },
+    {
+        "person_id": "181984",
+        "surname": "BANA",
+        "first_name": "GIUSEPPINA",
+        "date_of_birth": "02/11/1962",
+        "birth_place": "BERGAMO (BG)",
+        "province": " BERGAMO (BG)",
+        "full_name": "DOTT.SSA BANA GIUSEPPINA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "BERGAMO",
+                "year": "25/01/1990",
+                "number": "0000004485"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "31/10/1989"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1989 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "BRESCIA",
+                "specializzazione_name": "GINECOLOGIA E OSTETRICIA ",
+                "year": "23/07/1993"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "589035",
+        "surname": "BANA",
+        "first_name": "NICHOLAS BRIAN",
+        "date_of_birth": "20/08/1995",
+        "birth_place": "TREVIGLIO (BG)",
+        "province": " BERGAMO (BG)",
+        "full_name": "DOTT. BANA NICHOLAS BRIAN",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "BERGAMO",
+                "year": "17/12/2020",
+                "number": "0000008180"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BRESCIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "04/12/2020"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "93154",
+        "surname": "BANA",
+        "first_name": "RICCARDO",
+        "date_of_birth": "27/04/1946",
+        "birth_place": "PONTE NOSSA (BG)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANA RICCARDO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "24/04/1972",
+                "number": "0000014202"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "19/11/1971"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1972 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "MALATTIE DELLAPPARATO CARDIOVASCOLARE ",
+                "year": "27/02/1978"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "475121",
+        "surname": "BANCALARI",
+        "first_name": "CATERINA",
+        "date_of_birth": "09/03/1985",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT.SSA BANCALARI CATERINA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "29/07/2010",
+                "number": "0000001617"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "29/03/2010"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "2010 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "69125",
+        "surname": "BANCALARI",
+        "first_name": "GIANCARLO",
+        "date_of_birth": "04/01/1953",
+        "birth_place": "LAVAGNA (GE)",
+        "province": " LA SPEZIA (SP)",
+        "full_name": "DOTT. BANCALARI GIANCARLO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LA",
+                "year": "06/04/1983",
+                "number": "0000000999"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/11/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1978 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "12/01/2024"
+    },
+    {
+        "person_id": "227406",
+        "surname": "BANCALARI",
+        "first_name": "LORENZA",
+        "date_of_birth": "25/08/1959",
+        "birth_place": "SANTO STEFANO DI MAGRA (SP)",
+        "province": " LA SPEZIA (SP)",
+        "full_name": "DOTT.SSA BANCALARI LORENZA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "LA",
+                "year": "30/05/1990",
+                "number": "0000001407"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PISA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "02/11/1989"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PISA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1990 ",
+                "round": " 0"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PISA",
+                "specializzazione_name": "MALATTIE APPARATO RESPIRATORIO ",
+                "year": "27/10/1994"
+            }
+        ],
+        "last_update_date": "12/01/2024"
+    },
+    {
+        "person_id": "158174",
+        "surname": "BANCALARI",
+        "first_name": "MAURIZIO",
+        "date_of_birth": "03/06/1970",
+        "birth_place": "CHIAVARI (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANCALARI MAURIZIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "12/01/1998",
+                "number": "0000000739"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "12/11/1997"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "1997 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "309231",
+        "surname": "BANCHERI",
+        "first_name": "ALESSANDRA",
+        "date_of_birth": "14/04/1982",
+        "birth_place": "SALERNO (SA)",
+        "province": " AREZZO (AR)",
+        "full_name": "DOTT.SSA BANCHERI ALESSANDRA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "AREZZO",
+                "year": "02/03/2016",
+                "number": "0000003108"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "SIENA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "18/10/2006"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "SIENA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2006 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "12/01/2024"
+    },
+    {
+        "person_id": "141211",
+        "surname": "BANCHERI",
+        "first_name": "CALOGERO ANTONIO",
+        "date_of_birth": "23/02/1953",
+        "birth_place": "DELIA (CL)",
+        "province": " ROMA (RM)",
+        "full_name": "Dott. BANCHERI CALOGERO ANTONIO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "ROMA",
+                "year": "23/03/1987",
+                "number": "0000037925"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "28/02/1983"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1986 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "ROMA TOR VERGATA",
+                "specializzazione_name": "GINECOLOGIA E OSTETRICIA ",
+                "year": "30/10/1990"
+            }
+        ],
+        "last_update_date": "05/02/2024"
+    },
+    {
+        "person_id": "229937",
+        "surname": "BANCHERI",
+        "first_name": "LARA",
+        "date_of_birth": "05/04/1970",
+        "birth_place": "ROMA (RM)",
+        "province": " ROMA (RM)",
+        "full_name": "Dott.ssa BANCHERI LARA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "ROMA",
+                "year": "16/04/1997",
+                "number": "0000047863"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/04/1996"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1996 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "specializzazione_name": "PSICHIATRIA N.O. ",
+                "year": "23/11/2001"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICO PSICOTERAPEUTA": "MEDICO PSICOTERAPEUTA"
+            }
+        ],
+        "last_update_date": "05/02/2024"
+    },
+    {
+        "person_id": "97270",
+        "surname": "BANCHERI",
+        "first_name": "PAOLO",
+        "date_of_birth": "01/06/1948",
+        "birth_place": "VERONA (VR)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANCHERI PAOLO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "25/03/1975",
+                "number": "0000007448"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "25/07/1974"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1975 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "GENOVA",
+                "specializzazione_name": "MICROBIOLOGIA MEDICA ",
+                "year": "08/11/1977"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "156779",
+        "surname": "BANCHERO",
+        "first_name": "CLAUDIO",
+        "date_of_birth": "21/05/1961",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANCHERO CLAUDIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "22/05/1990",
+                "number": "0000012231"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "04/07/1989"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1989 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "GENOVA",
+                "specializzazione_name": "OFTALMOLOGIA ",
+                "year": "07/11/1994"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "253546",
+        "surname": "BANCHERO",
+        "first_name": "LORENZO",
+        "date_of_birth": "25/12/1948",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANCHERO LORENZO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "20/05/1975",
+                "number": "0000007522"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "30/07/1974"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1975 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "GENOVA",
+                "specializzazione_name": "CLINICA PEDIATRICA ",
+                "year": "24/11/1977"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "105537",
+        "surname": "BANCHERO",
+        "first_name": "MARCO",
+        "date_of_birth": "27/05/1961",
+        "birth_place": "IMPERIA (IM)",
+        "province": " IMPERIA (IM)",
+        "full_name": "DOTT. BANCHERO MARCO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "IMPERIA",
+                "year": "16/01/2020",
+                "number": "0000002207"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "14/07/1988"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1988 ",
+                "round": " 2"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICO IMMATR.80/81- 84/85 CON ATTESTATO SUP.PROVE ATTITUDINALI ISCRITTO ALBO ODONTO.": "MEDICO IMMATR.80/81- 84/85 CON ATTESTATO SUP.PROVE ATTITUDINALI ISCRITTO ALBO ODONTO."
+            }
+        ],
+        "last_update_date": "05/02/2024"
+    },
+    {
+        "person_id": "173702",
+        "surname": "BANCHERO",
+        "first_name": "MARIA ANTONIETTA",
+        "date_of_birth": "15/03/1958",
+        "birth_place": "GENOVA (GE)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott.ssa BANCHERO MARIA ANTONIETTA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "19/07/1999",
+                "number": "0000036214"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "09/07/1982"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1982 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "NEUROCHIRURGIA ",
+                "year": "10/07/1987"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "266980",
+        "surname": "BANCHERO",
+        "first_name": "MARISA",
+        "date_of_birth": "07/01/1951",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT.SSA BANCHERO MARISA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "15/07/1986",
+                "number": "0000011145"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "08/04/1986"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1986 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "198055",
+        "surname": "BANCHERO",
+        "first_name": "PIERGIORGIO",
+        "date_of_birth": "27/05/1961",
+        "birth_place": "TORINO (TO)",
+        "province": " TORINO (TO)",
+        "full_name": "Dott. BANCHERO PIERGIORGIO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "TORINO",
+                "year": "28/05/1990",
+                "number": "0000015508"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TORINO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "19/03/1990"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TORINO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1990 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "specializzazione_name": "Specializzazione",
+                "year": "GENERALE"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "220886",
+        "surname": "BANCHERO",
+        "first_name": "RICCARDO",
+        "date_of_birth": "18/10/1963",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANCHERO RICCARDO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "16/01/1990",
+                "number": "0000012088"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "03/10/1989"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1989 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "GENOVA",
+                "specializzazione_name": "UROLOGIA ",
+                "year": "05/07/1994"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "553569",
+        "surname": "BANCHERO",
+        "first_name": "SARA",
+        "date_of_birth": "06/12/1991",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT.SSA BANCHERO SARA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "24/07/2018",
+                "number": "0000017110"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "22/03/2018"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2018 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "357886",
+        "surname": "BANCHI",
+        "first_name": "BENEDETTA",
+        "date_of_birth": "18/09/1976",
+        "birth_place": "SIENA (SI)",
+        "province": " SIENA (SI)",
+        "full_name": "DOTT.SSA BANCHI BENEDETTA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "SIENA",
+                "year": "15/07/2002",
+                "number": "0000003933"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "SIENA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/10/2001"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "SIENA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2002 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "SIENA",
+                "specializzazione_name": "RADIODIAGNOSTICA ",
+                "year": "12/12/2005"
+            }
+        ],
+        "last_update_date": "25/01/2024"
+    },
+    {
+        "person_id": "542256",
+        "surname": "BANCHI",
+        "first_name": "ELENA",
+        "date_of_birth": "19/10/1990",
+        "birth_place": "FIGLINE VALDARNO (FI)",
+        "province": " AREZZO (AR)",
+        "full_name": "DOTT.SSA BANCHI ELENA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "AREZZO",
+                "year": "26/04/2017",
+                "number": "0000003157"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "FIRENZE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "28/10/2016"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "FIRENZE",
+                "name": "Medicina e Chirurgia ",
+                "year": "2016 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "12/01/2024"
+    },
+    {
+        "person_id": "354447",
+        "surname": "BANCHI",
+        "first_name": "FABIO",
+        "date_of_birth": "24/12/1955",
+        "birth_place": "LIVORNO (LI)",
+        "province": " LIVORNO (LI)",
+        "full_name": "DOTT. BANCHI FABIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LIVORNO",
+                "year": "01/06/1983",
+                "number": "0000002280"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PISA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/04/1983"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PISA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1983 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PISA",
+                "specializzazione_name": "IMMUNOEMATOLOGIA ",
+                "year": "24/10/1990"
+            }
+        ],
+        "last_update_date": "01/02/2024"
+    },
+    {
+        "person_id": "41600",
+        "surname": "BANCHI",
+        "first_name": "GIOVANNI",
+        "date_of_birth": "06/01/1951",
+        "birth_place": "BORGO SAN LORENZO (FI)",
+        "province": " FIRENZE (FI)",
+        "full_name": "DOTT. BANCHI GIOVANNI",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "FIRENZE",
+                "year": "30/05/1977",
+                "number": "0000005461"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "FIRENZE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "16/03/1977"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "FIRENZE",
+                "name": "Medicina e Chirurgia ",
+                "year": "1977 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "375803",
+        "surname": "BANCHI",
+        "first_name": "LUIGI",
+        "date_of_birth": "25/03/1965",
+        "birth_place": "TORINO (TO)",
+        "province": " TORINO (TO)",
+        "full_name": "Dott. BANCHI LUIGI",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "TORINO",
+                "year": "28/05/1990",
+                "number": "0000000610"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TORINO",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "02/04/1990"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TORINO",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "1990 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "355313",
+        "surname": "BANCHI",
+        "first_name": "MASSIMO",
+        "date_of_birth": "08/01/1955",
+        "birth_place": "ROMA (RM)",
+        "province": " REGGIO EMILIA (RE)",
+        "full_name": "DOTT. BANCHI MASSIMO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "REGGIO",
+                "year": "20/06/1996",
+                "number": "0000002811"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "21/07/1980"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1980 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "ROMA",
+                "specializzazione_name": "ORTOPEDIA E TRAUMATOLOGIA ",
+                "year": "26/07/1983"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "273254",
+        "surname": "BANCHI",
+        "first_name": "ROBERTO",
+        "date_of_birth": "27/01/1951",
+        "birth_place": "ROSIGNANO MARITTIMO (LI)",
+        "province": " LIVORNO (LI)",
+        "full_name": "DOTT. BANCHI ROBERTO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LIVORNO",
+                "year": "28/01/1977",
+                "number": "0000001684"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PISA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "16/12/1976"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PISA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1977 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "FERRARA",
+                "specializzazione_name": "CHIRURGIA GENERALE ",
+                "year": "03/07/1984"
+            }
+        ],
+        "last_update_date": "01/02/2024"
+    },
+    {
+        "person_id": "205710",
+        "surname": "BANCHI",
+        "first_name": "SERENA",
+        "date_of_birth": "18/03/1971",
+        "birth_place": "FIRENZE (FI)",
+        "province": " FIRENZE (FI)",
+        "full_name": "DOTT.SSA BANCHI SERENA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "FIRENZE",
+                "year": "26/02/2002",
+                "number": "0000011548"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "FIRENZE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "18/04/2001"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "FIRENZE",
+                "name": "Medicina e Chirurgia ",
+                "year": "2001 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "FIRENZE",
+                "specializzazione_name": "IGIENE E MEDICINA PREVENTIVA ",
+                "year": "26/10/2005"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICINA GENERALE": "MEDICINA GENERALE"
+            }
+        ],
+        "last_update_date": "19/01/2024"
+    },
+    {
+        "person_id": "315211",
+        "surname": "BANCHI",
+        "first_name": "STEFANO",
+        "date_of_birth": "29/09/1949",
+        "birth_place": "FIRENZE (FI)",
+        "province": " SIENA (SI)",
+        "full_name": "DOTT. BANCHI STEFANO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "SIENA",
+                "year": "29/11/2004",
+                "number": "0000004138"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "FIRENZE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "14/04/1980"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "FIRENZE",
+                "name": "Medicina e Chirurgia ",
+                "year": "1980 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "167628",
+        "surname": "BANCHIERI",
+        "first_name": "MICHELA",
+        "date_of_birth": "20/04/1977",
+        "birth_place": "ROMA (RM)",
+        "province": " ROMA (RM)",
+        "full_name": "Dott.ssa BANCHIERI MICHELA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "ROMA",
+                "year": "30/12/2003",
+                "number": "0000052925"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "27/03/2003"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2003 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "05/02/2024"
+    },
+    {
+        "person_id": "150073",
+        "surname": "BANCHIERO",
+        "first_name": "ANNALISA",
+        "date_of_birth": "13/02/1965",
+        "birth_place": "CAGLIARI (CA)",
+        "province": " CAGLIARI (CA)",
+        "full_name": "Dott.ssa BANCHIERO ANNALISA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "CAGLIARI",
+                "year": "21/06/1994",
+                "number": "0000006899"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "CAGLIARI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "16/12/1993"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "CAGLIARI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1994 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    },
+    {
+        "person_id": "565033",
+        "surname": "BANDA",
+        "first_name": "DANILO MAURO",
+        "date_of_birth": "14/05/1946",
+        "birth_place": "NETTUNO (RM)",
+        "province": " ROMA (RM)",
+        "full_name": "Dott. BANDA DANILO MAURO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "ROMA",
+                "year": "25/02/1974",
+                "number": "0000020582"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "31/07/1973"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "ROMA LA SAPIENZA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1974 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "NAPOLI",
+                "specializzazione_name": "MALATTIE APPARATO CARDIOVASCOLARE ",
+                "year": "26/07/1978"
+            }
+        ],
+        "last_update_date": "05/02/2024"
+    },
+    {
+        "person_id": "568720",
+        "surname": "BANDEL",
+        "first_name": "ALESSANDRA",
+        "date_of_birth": "11/09/1993",
+        "birth_place": "TRIESTE (TS)",
+        "province": " TRIESTE (TS)",
+        "full_name": "Dott.ssa BANDEL ALESSANDRA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "TRIESTE",
+                "year": "28/11/2019",
+                "number": "0000000501"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO VITA-SALUTE SAN RAFFAELE",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "24/07/2019"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO VITA-SALUTE SAN RAFFAELE",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "2019 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "21/12/2023"
+    },
+    {
+        "person_id": "362492",
+        "surname": "BANDEL",
+        "first_name": "FERRUCCIO",
+        "date_of_birth": "13/02/1955",
+        "birth_place": "TRIESTE (TS)",
+        "province": " TRIESTE (TS)",
+        "full_name": "Dott. BANDEL FERRUCCIO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "TRIESTE",
+                "year": "26/01/1984",
+                "number": "0000002569"
+            },
+            {
+                "province": "TRIESTE",
+                "year": "31/05/1989",
+                "number": "0000000084"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TRIESTE",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "22/07/1983"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "name": "Medicina e Chirurgia ",
+                "year": "1983 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "21/12/2023"
+    },
+    {
+        "person_id": "132112",
+        "surname": "BANDEL",
+        "first_name": "MARIA ELISABETTA",
+        "date_of_birth": "07/03/1961",
+        "birth_place": "CAGLIARI (CA)",
+        "province": " CAGLIARI (CA)",
+        "full_name": "Dott.ssa BANDEL MARIA ELISABETTA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "CAGLIARI",
+                "year": "31/12/1991",
+                "number": "0000006427"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "SASSARI",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/07/1991"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "SASSARI",
+                "name": "Medicina e Chirurgia ",
+                "year": "1991 ",
+                "round": " 2"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICO PSICOTERAPEUTA": "MEDICO PSICOTERAPEUTA"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    },
+    {
+        "person_id": "489254",
+        "surname": "BANDELLI",
+        "first_name": "GIAN PIERO",
+        "date_of_birth": "19/02/1984",
+        "birth_place": "TORINO (TO)",
+        "province": " TORINO (TO)",
+        "full_name": "Dott. BANDELLI GIAN PIERO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "TORINO",
+                "year": "27/02/2012",
+                "number": "0000022277"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TORINO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "18/10/2011"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TORINO",
+                "name": "Medicina e Chirurgia ",
+                "year": "2011 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "specializzazione_name": "MALATTIE DELLAPPARATO RESPIRATORIO",
+                "year": "11/07/2017"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "332470",
+        "surname": "BANDELLO",
+        "first_name": "ATTILIO",
+        "date_of_birth": "13/08/1945",
+        "birth_place": "MAGLIE (LE)",
+        "province": " VERONA (VR)",
+        "full_name": "DOTT. BANDELLO ATTILIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "VERONA",
+                "year": "02/04/1971",
+                "number": "0000002263"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PADOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/07/1970"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PADOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1970 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "SIENA",
+                "specializzazione_name": "MALATTIE DELLAPPARATO CARDIOVASCOLARE ",
+                "year": "24/06/1975"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "168164",
+        "surname": "BANDELLO",
+        "first_name": "FRANCESCO MARIA",
+        "date_of_birth": "29/02/1956",
+        "birth_place": "MAGLIE (LE)",
+        "province": " LECCE (LE)",
+        "full_name": "PROFESSORE BANDELLO FRANCESCO MARIA",
+        "prefix": "PROFESSORE",
+        "iscrizioni": [
+            {
+                "province": "LECCE",
+                "year": "30/01/1981",
+                "number": "0000003153"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PAVIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "31/10/1980"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PAVIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1980 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "02/02/2024"
+    },
+    {
+        "person_id": "220630",
+        "surname": "BANDELLO",
+        "first_name": "LUIGI",
+        "date_of_birth": "07/06/1952",
+        "birth_place": "MAGLIE (LE)",
+        "province": " BOLOGNA (BO)",
+        "full_name": "DOTT. BANDELLO LUIGI",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "BOLOGNA",
+                "year": "07/07/1998",
+                "number": "0000013677"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "15/12/1977"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "name": "Medicina e Chirurgia ",
+                "year": "1977 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "449404",
+        "surname": "BANDELLO",
+        "first_name": "MARIA ANTONIETTA",
+        "date_of_birth": "20/08/1974",
+        "birth_place": "LEGNAGO (VR)",
+        "province": " PARMA (PR)",
+        "full_name": "DOTT.SSA BANDELLO MARIA ANTONIETTA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "PARMA",
+                "year": "22/05/2012",
+                "number": "0000006489"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PARMA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/10/1999"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PARMA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2000 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "INDIRIZZO PEDIATRIA GENERALE",
+                "specializzazione_name": "PEDIATRIA ",
+                "year": "10/11/2004"
+            }
+        ],
+        "last_update_date": "30/01/2024"
+    },
+    {
+        "person_id": "394126",
+        "surname": "BANDELLO",
+        "first_name": "MARIA ANTONIETTA",
+        "date_of_birth": "14/02/1977",
+        "birth_place": "MAGLIE (LE)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott.ssa BANDELLO MARIA ANTONIETTA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "03/07/2002",
+                "number": "0000002860"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "FERRARA",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "19/10/2001"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "FERRARA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "2001 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "326080",
+        "surname": "BANDELLO",
+        "first_name": "PASQUALE",
+        "date_of_birth": "29/12/1941",
+        "birth_place": "SPECCHIA (LE)",
+        "province": " VERONA (VR)",
+        "full_name": "DOTT. BANDELLO PASQUALE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "VERONA",
+                "year": "23/10/1970",
+                "number": "0000002225"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PADOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "29/11/1966"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PADOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1967 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PADOVA",
+                "specializzazione_name": "EMATOLOGIA CLINICA E DI LABORATORIO ",
+                "year": "22/07/1975"
+            },
+            {
+                "university_name": "PARMA",
+                "specializzazione_name": "ANATOMIA PATOLOGICA E TECNICHE DI LABORATORIO ",
+                "year": "27/11/1972"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "350065",
+        "surname": "BANDELLONI",
+        "first_name": "ANNA MARIA",
+        "date_of_birth": "03/03/1951",
+        "birth_place": "TORINO (TO)",
+        "province": " TORINO (TO)",
+        "full_name": "Dott.ssa BANDELLONI ANNA MARIA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "TORINO",
+                "year": "13/12/1994",
+                "number": "0000017314"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "TORINO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "05/04/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "TORINO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1978 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "specializzazione_name": "Specializzazione",
+                "year": "INFETTIVE"
+            },
+            {
+                "specializzazione_name": "Specializzazione",
+                "year": "PEDIATRICA"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "281914",
+        "surname": "BANDELLONI",
+        "first_name": "ROBERTO",
+        "date_of_birth": "05/11/1949",
+        "birth_place": "SANTA MARGHERITA LIGURE (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANDELLONI ROBERTO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "28/05/1976",
+                "number": "0000007786"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "04/03/1976"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1976 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "107230",
+        "surname": "BANDELLONI",
+        "first_name": "RUGGERO",
+        "date_of_birth": "10/05/1961",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANDELLONI RUGGERO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "13/01/1997",
+                "number": "0000000713"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "29/07/1996"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "1996 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "408863",
+        "surname": "BANDERA",
+        "first_name": "ALESSANDRA",
+        "date_of_birth": "28/11/1972",
+        "birth_place": "MAGENTA (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott.ssa BANDERA ALESSANDRA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "22/06/1998",
+                "number": "0000035515"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "21/07/1997"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1998 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "150860",
+        "surname": "BANDERA",
+        "first_name": "ANDREA",
+        "date_of_birth": "13/01/1962",
+        "birth_place": "ROVERETO (TN)",
+        "province": " TRENTO (TN)",
+        "full_name": "DOTT. BANDERA ANDREA",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "TRENTO",
+                "year": "13/01/1988",
+                "number": "0000002625"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "VERONA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "09/11/1987"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "VERONA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1987 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "VERONA",
+                "specializzazione_name": "NEFROLOGIA ",
+                "year": "18/07/1991"
+            }
+        ],
+        "last_update_date": "25/01/2024"
+    },
+    {
+        "person_id": "178740",
+        "surname": "BANDERA",
+        "first_name": "ANGELO",
+        "date_of_birth": "10/06/1945",
+        "birth_place": "LEGNANO (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERA ANGELO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "25/05/1971",
+                "number": "0000013923"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "17/07/1970"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1971 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "ANESTESIOLOGIA E RIANIMAZIONE ",
+                "year": "15/11/1973"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "57921",
+        "surname": "BANDERA",
+        "first_name": "ELISABETTA",
+        "date_of_birth": "23/05/1972",
+        "birth_place": "BRESCIA (BS)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT.SSA BANDERA ELISABETTA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "29/06/1999",
+                "number": "0000006690"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BRESCIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "15/10/1998"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BRESCIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1999 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "BRESCIA",
+                "specializzazione_name": "ANESTESIA E RIANIMAZIONE ",
+                "year": "14/11/2002"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "405432",
+        "surname": "BANDERA",
+        "first_name": "EMANUELA",
+        "date_of_birth": "25/11/1953",
+        "birth_place": "RIMINI (RN)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott.ssa BANDERA EMANUELA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "30/01/1979",
+                "number": "0000018989"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "26/07/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1978 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "DERMATOLOGIA E VENEREOLOGIA ",
+                "year": "07/07/1981"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "410234",
+        "surname": "BANDERA",
+        "first_name": "FLORIANA",
+        "date_of_birth": "13/03/1980",
+        "birth_place": "ISEO (BS)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT.SSA BANDERA FLORIANA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "01/03/2006",
+                "number": "0000007735"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BRESCIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "17/10/2005"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BRESCIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2005 ",
+                "round": " 1"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "295706",
+        "surname": "BANDERA",
+        "first_name": "FRANCESCO",
+        "date_of_birth": "12/10/1978",
+        "birth_place": "VARESE (VA)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERA FRANCESCO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "15/10/2015",
+                "number": "0000044219"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "24/09/2003"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2003 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "404494",
+        "surname": "BANDERA",
+        "first_name": "GIUSEPPE",
+        "date_of_birth": "06/08/1949",
+        "birth_place": "BRESCIA (BS)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT. BANDERA GIUSEPPE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "11/02/1975",
+                "number": "0000002229"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "27/11/1974"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1974 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "IGIENE E MEDICINA PREVENTIVA ",
+                "year": "04/07/1986"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "156716",
+        "surname": "BANDERA",
+        "first_name": "LAURA",
+        "date_of_birth": "13/04/1981",
+        "birth_place": "ISEO (BS)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT.SSA BANDERA LAURA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "20/03/2007",
+                "number": "0000007914"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BRESCIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "18/10/2006"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BRESCIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2006 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "BRESCIA",
+                "specializzazione_name": "RADIOTERAPIA ",
+                "year": "01/08/2011"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "556904",
+        "surname": "BANDERA",
+        "first_name": "LUCA",
+        "date_of_birth": "11/05/1993",
+        "birth_place": "CARATE BRIANZA (MB)",
+        "province": " LECCO (LC)",
+        "full_name": "DOTT. BANDERA LUCA",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LECCO",
+                "year": "18/12/2018",
+                "number": "0000000355"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO-BICOCCA",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "18/07/2018"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "2018 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "19/12/2023"
+    },
+    {
+        "person_id": "277775",
+        "surname": "BANDERA",
+        "first_name": "LUIGI ALESSANDRO",
+        "date_of_birth": "12/06/1942",
+        "birth_place": "LEGNANO (MI)",
+        "province": " UDINE (UD)",
+        "full_name": "DOTT. BANDERA LUIGI ALESSANDRO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "UDINE",
+                "year": "28/11/1974",
+                "number": "0000001919"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "18/07/1966"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1967 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "CARDIOLOGIA ",
+                "year": "17/11/1970"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "417214",
+        "surname": "BANDERA",
+        "first_name": "MARCO ENRICO",
+        "date_of_birth": "27/07/1961",
+        "birth_place": "BUSTO ARSIZIO (VA)",
+        "province": " LECCO (LC)",
+        "full_name": "DOTT. BANDERA MARCO ENRICO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "LECCO",
+                "year": "14/12/1993",
+                "number": "0000000063"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "ODONTOIATRIA E PROTESI DENTARIA ",
+                "year": "11/07/1986"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Odontoiatria e protesi dentaria ",
+                "year": "1986 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "19/12/2023"
+    },
+    {
+        "person_id": "384719",
+        "surname": "BANDERA",
+        "first_name": "MAURO",
+        "date_of_birth": "07/10/1953",
+        "birth_place": "CARNAGO (VA)",
+        "province": " VARESE (VA)",
+        "full_name": "DOTT. BANDERA MAURO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "VARESE",
+                "year": "29/01/1979",
+                "number": "0000002445"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PAVIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "31/10/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PAVIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1978 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "TISIOLOGIA E MALATTIE DELLAPPARATO RESPIRATORIO ",
+                "year": "30/06/1981"
+            },
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "ONCOLOGIA ",
+                "year": "14/10/1985"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "OMOTOSSICOLOGIA": "OMOTOSSICOLOGIA"
+            },
+            {
+                "OMEOPATIA": "OMEOPATIA"
+            }
+        ],
+        "last_update_date": "02/02/2024"
+    },
+    {
+        "person_id": "359689",
+        "surname": "BANDERA",
+        "first_name": "ORIO",
+        "date_of_birth": "17/09/1947",
+        "birth_place": "BRESCIA (BS)",
+        "province": " BRESCIA (BS)",
+        "full_name": "DOTT. BANDERA ORIO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "BRESCIA",
+                "year": "24/07/2002",
+                "number": "0000004740"
+            },
+            {
+                "province": "BRESCIA",
+                "year": "30/07/1987",
+                "number": "0000004740"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "11/11/1986"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "NAPOLI SECONDA UNIVERSITA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1986 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "ANCONA -POLITECNICA DELLE MARCHE -UNIVPM",
+                "specializzazione_name": "ODONTOSTOMATOLOGIA ",
+                "year": "21/12/1993"
+            }
+        ],
+        "last_update_date": "18/01/2024"
+    },
+    {
+        "person_id": "314675",
+        "surname": "BANDERA",
+        "first_name": "ROSALIA",
+        "date_of_birth": "01/12/1954",
+        "birth_place": "BUSTO ARSIZIO (VA)",
+        "province": " VARESE (VA)",
+        "full_name": "DOTT.SSA BANDERA ROSALIA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "VARESE",
+                "year": "29/01/1980",
+                "number": "0000002641"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "07/09/1979"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1979 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "02/02/2024"
+    },
+    {
+        "person_id": "456000",
+        "surname": "BANDERA",
+        "first_name": "VALENTINA",
+        "date_of_birth": "28/03/1983",
+        "birth_place": "GALLARATE (VA)",
+        "province": " VARESE (VA)",
+        "full_name": "DOTT.SSA BANDERA VALENTINA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "VARESE",
+                "year": "18/08/2009",
+                "number": "0000006849"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "25/03/2009"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2009 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO-BICOCCA",
+                "specializzazione_name": "NEUROPSICHIATRIA INFANTILE ",
+                "year": "21/05/2015"
+            }
+        ],
+        "last_update_date": "02/02/2024"
+    },
+    {
+        "person_id": "422635",
+        "surname": "BANDERA",
+        "first_name": "VERONICA",
+        "date_of_birth": "15/04/1982",
+        "birth_place": "BUSTO ARSIZIO (VA)",
+        "province": " VARESE (VA)",
+        "full_name": "DOTT.SSA BANDERA VERONICA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "VARESE",
+                "year": "02/02/2016",
+                "number": "0000007602"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "25/07/2007"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "VARESE UNIVERSITA DELLINSUBRIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2007 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MINISTERO DELLA SALUTE",
+                "specializzazione_name": "MEDICINA INTERNA ",
+                "year": "08/01/2016"
+            }
+        ],
+        "last_update_date": "02/02/2024"
+    },
+    {
+        "person_id": "298480",
+        "surname": "BANDERALI",
+        "first_name": "ALESSANDRA",
+        "date_of_birth": "19/07/1973",
+        "birth_place": "PAVIA (PV)",
+        "province": " PAVIA (PV)",
+        "full_name": "DOTT.SSA BANDERALI ALESSANDRA",
+        "prefix": "DOTT.SSA",
+        "iscrizioni": [
+            {
+                "province": "PAVIA",
+                "year": "14/09/1999",
+                "number": "0000007232"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PAVIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "20/10/1998"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PAVIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1999 ",
+                "round": " 0"
+            }
+        ],
+        "last_update_date": "25/01/2024"
+    },
+    {
+        "person_id": "64554",
+        "surname": "BANDERALI",
+        "first_name": "ARIANNA GIUSEPPINA",
+        "date_of_birth": "09/07/1958",
+        "birth_place": "MILANO (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott.ssa BANDERALI ARIANNA GIUSEPPINA",
+        "prefix": "Dott.ssa",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "27/08/1986",
+                "number": "0000026601"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "09/07/1985"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1986 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "SCIENZA DELLALIMENTAZIONE INDIRIZZO DIETETICO ",
+                "year": "12/07/1989"
+            }
+        ],
+        "elenchi_speciali": [
+            {
+                "MEDICO PSICOTERAPEUTA": "MEDICO PSICOTERAPEUTA"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "390072",
+        "surname": "BANDERALI",
+        "first_name": "BRUNO",
+        "date_of_birth": "12/01/1929",
+        "birth_place": "MILANO (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERALI BRUNO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "28/01/1977",
+                "number": "0000016928"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "16/06/1976"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1976 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "141140",
+        "surname": "BANDERALI",
+        "first_name": "GIORGIO",
+        "date_of_birth": "25/03/1952",
+        "birth_place": "MAGHERNO (PV)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERALI GIORGIO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "30/01/1979",
+                "number": "0000018834"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PAVIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "29/12/1978"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PAVIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1979 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "MEDICINA INTERNA ",
+                "year": "16/07/1984"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "169948",
+        "surname": "BANDERALI",
+        "first_name": "GIUSEPPE MAURIZIO",
+        "date_of_birth": "12/03/1961",
+        "birth_place": "MILANO (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERALI GIUSEPPE MAURIZIO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "17/03/1987",
+                "number": "0000027234"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "06/11/1986"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1986 ",
+                "round": " 2"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "401308",
+        "surname": "BANDERALI",
+        "first_name": "MATTEO",
+        "date_of_birth": "31/08/1979",
+        "birth_place": "RHO (MI)",
+        "province": " MILANO (MI)",
+        "full_name": "Dott. BANDERALI MATTEO",
+        "prefix": "Dott.",
+        "iscrizioni": [
+            {
+                "province": "MILANO",
+                "year": "27/02/2006",
+                "number": "0000039870"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/03/2005"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "2005 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "MILANO",
+                "specializzazione_name": "OTORINOLARINGOIATRIA I SCUOLA ",
+                "year": "05/11/2009"
+            }
+        ],
+        "last_update_date": "26/01/2024"
+    },
+    {
+        "person_id": "322708",
+        "surname": "BANDERALI",
+        "first_name": "SIMONE",
+        "date_of_birth": "04/06/1977",
+        "birth_place": "GENOVA (GE)",
+        "province": " GENOVA (GE)",
+        "full_name": "DOTT. BANDERALI SIMONE",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "GENOVA",
+                "year": "10/07/2002",
+                "number": "0000014196"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "GENOVA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "25/07/2001"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "GENOVA",
+                "name": "Medicina e Chirurgia ",
+                "year": "2002 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "GENOVA",
+                "specializzazione_name": "RADIODIAGNOSTICA ",
+                "year": "11/11/2005"
+            }
+        ],
+        "last_update_date": "31/01/2024"
+    },
+    {
+        "person_id": "287162",
+        "surname": "BANDI",
+        "first_name": "ANDREA",
+        "date_of_birth": "31/10/1957",
+        "birth_place": "VIGEVANO (PV)",
+        "province": " PAVIA (PV)",
+        "full_name": "DOTT. BANDI ANDREA",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "PAVIA",
+                "year": "14/02/1985",
+                "number": "0000004893"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "PAVIA",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "22/06/1984"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "PAVIA",
+                "name": "Medicina e Chirurgia ",
+                "year": "1984 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "OFTALMOLOGIA ",
+                "year": "11/07/1988"
+            }
+        ],
+        "last_update_date": "25/01/2024"
+    },
+    {
+        "person_id": "415554",
+        "surname": "BANDI",
+        "first_name": "CRISTIANO",
+        "date_of_birth": "07/06/1960",
+        "birth_place": "NOVARA (NO)",
+        "province": " PAVIA (PV)",
+        "full_name": "DOTT. BANDI CRISTIANO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "PAVIA",
+                "year": "02/07/2001",
+                "number": "0000007447"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "MILANO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "02/04/1990"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "MILANO",
+                "name": "Medicina e Chirurgia ",
+                "year": "1989 ",
+                "round": " 1"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "PAVIA",
+                "specializzazione_name": "MEDICINA FISICA E RIABILITAZIONE ",
+                "year": "29/10/1996"
+            }
+        ],
+        "last_update_date": "25/01/2024"
+    },
+    {
+        "person_id": "517623",
+        "surname": "BANDI",
+        "first_name": "FRANCESCO",
+        "date_of_birth": "11/12/1989",
+        "birth_place": "VIGEVANO (PV)",
+        "province": " NOVARA (NO)",
+        "full_name": "DOTT. BANDI FRANCESCO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "NOVARA",
+                "year": "26/02/2015",
+                "number": "0000004206"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "UNIVERSITA DEGLI STUDI DEL PIEMONTE ORIENTALE AMEDEO AVOGADRO",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "23/07/2014"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "UNIVERSITA DEGLI STUDI DEL PIEMONTE ORIENTALE AMEDEO AVOGADRO",
+                "name": "Medicina e Chirurgia ",
+                "year": "2014 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "BRESCIA",
+                "specializzazione_name": "OTORINOLARINGOIATRIA ",
+                "year": "27/11/2019"
+            }
+        ],
+        "last_update_date": "17/01/2024"
+    },
+    {
+        "person_id": "274003",
+        "surname": "BANDI",
+        "first_name": "GIANFRANCO",
+        "date_of_birth": "09/03/1957",
+        "birth_place": "BERTINORO (FC)",
+        "province": " FORLI'-CESENA (FC)",
+        "full_name": "DOTT. BANDI GIANFRANCO",
+        "prefix": "DOTT.",
+        "iscrizioni": [
+            {
+                "province": "FORLI'-CESENA",
+                "year": "17/02/1983",
+                "number": "0000002623"
+            }
+        ],
+        "lauree": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "name": "MEDICINA E CHIRURGIA ",
+                "year": "28/12/1982"
+            }
+        ],
+        "abilitazioni": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "name": "Medicina e Chirurgia ",
+                "year": "1982 ",
+                "round": " 2"
+            }
+        ],
+        "specializzazioni": [
+            {
+                "university_name": "BOLOGNA ALMA MATER STUDIORUM",
+                "specializzazione_name": "RADIOLOGIA-RADIODIAGNOSTICA ",
+                "year": "30/10/1986"
+            }
+        ],
+        "last_update_date": "24/01/2024"
+    }
+]
