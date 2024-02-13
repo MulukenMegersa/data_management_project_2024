@@ -1,0 +1,1104 @@
+[
+    {
+        "person_id": 250493,
+        "surname": "Abbà",
+        "first_name": "Roberta",
+        "date_of_birth": "1977-06-05T22:00:00.000000Z",
+        "birth_place": "Cuneo (CN)",
+        "client_name": "Cuneo",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 44,
+                "entry_suffix": null,
+                "inscripted_at": "14/07/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 131688,
+        "surname": "Abbà",
+        "first_name": "Manuela",
+        "date_of_birth": "1986-01-11T23:00:00.000000Z",
+        "birth_place": "Cuneo (CN)",
+        "client_name": "Cuneo",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 70,
+                "entry_suffix": null,
+                "inscripted_at": "14/03/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 250498,
+        "surname": "Abbà",
+        "first_name": "Giorgia",
+        "date_of_birth": "1983-10-16T23:00:00.000000Z",
+        "birth_place": "Cuneo (CN)",
+        "client_name": "Cuneo",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 49,
+                "entry_suffix": null,
+                "inscripted_at": "14/07/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 250491,
+        "surname": "Abbà",
+        "first_name": "Elena Giovanna",
+        "date_of_birth": "1973-03-30T23:00:00.000000Z",
+        "birth_place": "Savigliano (CN)",
+        "client_name": "Cuneo",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 42,
+                "entry_suffix": null,
+                "inscripted_at": "14/07/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 154516,
+        "surname": "Abba'",
+        "first_name": "Elena",
+        "date_of_birth": "1966-02-13T23:00:00.000000Z",
+        "birth_place": "Torino (TO)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 680,
+                "entry_suffix": null,
+                "inscripted_at": "14/05/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 683316,
+        "surname": "Abba'",
+        "first_name": "Chiara",
+        "date_of_birth": "1975-10-10T23:00:00.000000Z",
+        "birth_place": "Cuneo (CN)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 809,
+                "entry_suffix": null,
+                "inscripted_at": "02/02/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 86315,
+        "surname": "Abbadessa",
+        "first_name": "Rossana",
+        "date_of_birth": "1995-05-15T22:00:00.000000Z",
+        "birth_place": "Melfi (PZ)",
+        "client_name": "Potenza Matera",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 6,
+                "entry_suffix": null,
+                "inscripted_at": "29/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 225349,
+        "surname": "Abbadessa",
+        "first_name": "Filomena",
+        "date_of_birth": "1977-07-11T22:00:00.000000Z",
+        "birth_place": "Gioia del Colle (BA)",
+        "client_name": "Bari Taranto Barletta-Andria-Trani",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 36,
+                "entry_suffix": null,
+                "inscripted_at": "06/10/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 125347,
+        "surname": "Abbadessa",
+        "first_name": "Chiara",
+        "date_of_birth": "1980-04-18T22:00:00.000000Z",
+        "birth_place": "Caserta (CE)",
+        "client_name": "Trento",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 74,
+                "entry_suffix": null,
+                "inscripted_at": "04/03/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 943,
+        "surname": "Abbadessa",
+        "first_name": "Angela",
+        "date_of_birth": "1989-08-03T22:00:00.000000Z",
+        "birth_place": "Melfi (PZ)",
+        "client_name": "Potenza Matera",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 332,
+                "entry_suffix": null,
+                "inscripted_at": "25/11/2011",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000016607,
+        "surname": "Abbafati",
+        "first_name": "Chiara",
+        "date_of_birth": "1999-05-02T22:00:00.000000Z",
+        "birth_place": "Velletri (RM)",
+        "client_name": "Latina",
+        "special_register": [
+            {
+                "board_name": "Igienista dentale",
+                "entry_number": 150,
+                "entry_suffix": null,
+                "inscripted_at": "28/06/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 111692,
+        "surname": "Abbagnale",
+        "first_name": "Gaia",
+        "date_of_birth": "1997-03-12T23:00:00.000000Z",
+        "birth_place": "Castellammare di Stabia (NA)",
+        "client_name": "Napoli Avellino Benevento Caserta",
+        "special_register": [
+            {
+                "board_name": "Tecnico della riabilitazione psichiatrica",
+                "entry_number": 113,
+                "entry_suffix": null,
+                "inscripted_at": "03/12/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000022408,
+        "surname": "Abbagnale",
+        "first_name": "Chiara",
+        "date_of_birth": "2002-02-11T23:00:00.000000Z",
+        "birth_place": "Napoli (NA)",
+        "client_name": "Napoli Avellino Benevento Caserta",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 4273,
+                "entry_suffix": null,
+                "inscripted_at": "21/11/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 243539,
+        "surname": "Abbagnale",
+        "first_name": "Anna",
+        "date_of_birth": "1997-08-09T22:00:00.000000Z",
+        "birth_place": "Vico Equense (NA)",
+        "client_name": "Napoli Avellino Benevento Caserta",
+        "special_register": [
+            {
+                "board_name": "Terapista della neuro e psicomotr. età evolutiva",
+                "entry_number": 1054,
+                "entry_suffix": null,
+                "inscripted_at": "30/03/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 254552,
+        "surname": "Abbagnato",
+        "first_name": "Eleonora Italia",
+        "date_of_birth": "1998-11-10T23:00:00.000000Z",
+        "birth_place": "Novi Ligure (AL)",
+        "client_name": "Mantova",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 275,
+                "entry_suffix": null,
+                "inscripted_at": "18/11/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 235806,
+        "surname": "Abballe",
+        "first_name": "Silvia",
+        "date_of_birth": "1991-09-18T22:00:00.000000Z",
+        "birth_place": "Sora (FR)",
+        "client_name": "Frosinone",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 25,
+                "entry_suffix": null,
+                "inscripted_at": "21/01/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 210182,
+        "surname": "Abballe",
+        "first_name": "Lorena",
+        "date_of_birth": "1984-10-15T23:00:00.000000Z",
+        "birth_place": "Sora (FR)",
+        "client_name": "Frosinone",
+        "special_register": [
+            {
+                "board_name": "Dietista",
+                "entry_number": 40,
+                "entry_suffix": null,
+                "inscripted_at": "06/04/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 230612,
+        "surname": "Abballe",
+        "first_name": "Ilenia",
+        "date_of_birth": "1991-01-21T23:00:00.000000Z",
+        "birth_place": "Sora (FR)",
+        "client_name": "Frosinone",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 2553,
+                "entry_suffix": null,
+                "inscripted_at": "01/12/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 104330,
+        "surname": "Abballe",
+        "first_name": "Catia",
+        "date_of_birth": "1983-03-14T23:00:00.000000Z",
+        "birth_place": "Sora (FR)",
+        "client_name": "Frosinone",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 124,
+                "entry_suffix": null,
+                "inscripted_at": "04/11/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 222858,
+        "surname": "Abballe",
+        "first_name": "Bruno Junior",
+        "date_of_birth": "1989-03-06T23:00:00.000000Z",
+        "birth_place": "Frosinone (FR)",
+        "client_name": "Frosinone",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 167,
+                "entry_suffix": null,
+                "inscripted_at": "02/09/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 216059,
+        "surname": "Abballe",
+        "first_name": "Andrea",
+        "date_of_birth": "1997-01-15T23:00:00.000000Z",
+        "birth_place": "Sant'Omero (TE)",
+        "client_name": "Verona",
+        "special_register": [
+            {
+                "board_name": "Dietista",
+                "entry_number": 69,
+                "entry_suffix": null,
+                "inscripted_at": "22/03/2022",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 116529,
+        "surname": "Abballe",
+        "first_name": "Alessandra",
+        "date_of_birth": "1978-04-13T23:00:00.000000Z",
+        "birth_place": "Tivoli (RM)",
+        "client_name": "Roma",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 826,
+                "entry_suffix": null,
+                "inscripted_at": "18/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 196967,
+        "surname": "Abbamonte",
+        "first_name": "Giuseppina",
+        "date_of_birth": "1967-12-28T23:00:00.000000Z",
+        "birth_place": "Germania (EE)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 1220,
+                "entry_suffix": null,
+                "inscripted_at": "17/01/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 107891,
+        "surname": "Abbamonte",
+        "first_name": "Adele",
+        "date_of_birth": "1959-11-19T23:00:00.000000Z",
+        "birth_place": "Taranto (TA)",
+        "client_name": "Forlì-Cesena Rimini",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 24,
+                "entry_suffix": null,
+                "inscripted_at": "05/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 71528,
+        "surname": "Abbandonato",
+        "first_name": "Mara",
+        "date_of_birth": "1980-08-10T22:00:00.000000Z",
+        "birth_place": "Avellino (AV)",
+        "client_name": "Napoli Avellino Benevento Caserta",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 66,
+                "entry_suffix": null,
+                "inscripted_at": "11/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 108436,
+        "surname": "Abbatangelo",
+        "first_name": "Sabrina",
+        "date_of_birth": "1988-07-01T22:00:00.000000Z",
+        "birth_place": "Torino (TO)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Tecnico audioprotesista",
+                "entry_number": 69,
+                "entry_suffix": null,
+                "inscripted_at": "04/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 975,
+        "surname": "Abbatangelo",
+        "first_name": "Nicola",
+        "date_of_birth": "1971-06-25T22:00:00.000000Z",
+        "birth_place": "Torino (TO)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 1134,
+                "entry_suffix": "TO",
+                "inscripted_at": "25/07/1994",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 123466,
+        "surname": "Abbatangelo",
+        "first_name": "Giovanni",
+        "date_of_birth": "1952-05-07T23:00:00.000000Z",
+        "birth_place": "Bari (BA)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Tecnico audioprotesista",
+                "entry_number": 77,
+                "entry_suffix": null,
+                "inscripted_at": "28/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 979,
+        "surname": "Abbatangelo",
+        "first_name": "Erika",
+        "date_of_birth": "1982-10-30T23:00:00.000000Z",
+        "birth_place": "Tradate (VA)",
+        "client_name": "Varese",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 391,
+                "entry_suffix": null,
+                "inscripted_at": "23/11/2006",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000009685,
+        "surname": "Abbatangelo",
+        "first_name": "Angelica",
+        "date_of_birth": "2000-09-22T22:00:00.000000Z",
+        "birth_place": "Reggio nell'Emilia (RE)",
+        "client_name": "Modena Reggio Emilia",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 481,
+                "entry_suffix": null,
+                "inscripted_at": "07/12/2022",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 81905,
+        "surname": "Abbate",
+        "first_name": "Violetta",
+        "date_of_birth": "1983-11-24T23:00:00.000000Z",
+        "birth_place": "Varese (VA)",
+        "client_name": "Novara Verbania-Cusio-Ossola",
+        "special_register": [
+            {
+                "board_name": "Igienista dentale",
+                "entry_number": 14,
+                "entry_suffix": null,
+                "inscripted_at": "22/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000015804,
+        "surname": "Abbate",
+        "first_name": "Valeria",
+        "date_of_birth": "1996-03-22T23:00:00.000000Z",
+        "birth_place": "Barcellona Pozzo di Gotto (ME)",
+        "client_name": "Messina",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 200,
+                "entry_suffix": null,
+                "inscripted_at": "03/04/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 736677,
+        "surname": "Abbate",
+        "first_name": "Teresa",
+        "date_of_birth": "1999-04-16T22:00:00.000000Z",
+        "birth_place": "Cernusco sul Naviglio (MI)",
+        "client_name": "Milano Como Lecco Lodi Monza-Brianza Sondrio",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 937,
+                "entry_suffix": null,
+                "inscripted_at": "29/01/2022",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000015342,
+        "surname": "Abbate",
+        "first_name": "Simona",
+        "date_of_birth": "1987-06-09T22:00:00.000000Z",
+        "birth_place": "Palermo (PA)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 254,
+                "entry_suffix": null,
+                "inscripted_at": "04/04/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 112171,
+        "surname": "Abbate",
+        "first_name": "Silvia",
+        "date_of_birth": "1985-11-06T23:00:00.000000Z",
+        "birth_place": "Enna (EN)",
+        "client_name": "Enna",
+        "special_register": [
+            {
+                "board_name": "Tecnico della riabilitazione psichiatrica",
+                "entry_number": 1,
+                "entry_suffix": null,
+                "inscripted_at": "08/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 225175,
+        "surname": "Abbate",
+        "first_name": "Sara",
+        "date_of_birth": "1996-04-02T22:00:00.000000Z",
+        "birth_place": "Giaveno (TO)",
+        "client_name": "Torino Aosta Alessandria Asti",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 1380,
+                "entry_suffix": null,
+                "inscripted_at": "02/10/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 194277,
+        "surname": "Abbate",
+        "first_name": "Samantha Maria Luisa",
+        "date_of_birth": "1973-06-26T22:00:00.000000Z",
+        "birth_place": "Piazza Armerina (EN)",
+        "client_name": "Catania",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 55,
+                "entry_suffix": null,
+                "inscripted_at": "24/12/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 982,
+        "surname": "Abbate",
+        "first_name": "Salvatore Maurizio",
+        "date_of_birth": "1986-05-14T22:00:00.000000Z",
+        "birth_place": "Milano (MI)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 735,
+                "entry_suffix": null,
+                "inscripted_at": "30/04/2013",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 137011,
+        "surname": "Abbate",
+        "first_name": "Salvatore",
+        "date_of_birth": "1961-11-10T23:00:00.000000Z",
+        "birth_place": "Palermo (PA)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 174,
+                "entry_suffix": null,
+                "inscripted_at": "01/04/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 164761,
+        "surname": "Abbate",
+        "first_name": "Salvatore",
+        "date_of_birth": "1995-08-27T22:00:00.000000Z",
+        "birth_place": "Palermo (PA)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 870,
+                "entry_suffix": null,
+                "inscripted_at": "24/06/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 128774,
+        "surname": "Abbate",
+        "first_name": "Riccardo",
+        "date_of_birth": "1992-03-02T23:00:00.000000Z",
+        "birth_place": "Galatina (LE)",
+        "client_name": "Ravenna",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 18,
+                "entry_suffix": null,
+                "inscripted_at": "12/03/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 978,
+        "surname": "Abbate",
+        "first_name": "Nunzia",
+        "date_of_birth": "1989-08-24T22:00:00.000000Z",
+        "birth_place": "Santa Maria Capua Vetere (CE)",
+        "client_name": "Napoli Avellino Benevento Caserta",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 3248,
+                "entry_suffix": null,
+                "inscripted_at": "15/11/2011",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 220357,
+        "surname": "Abbate",
+        "first_name": "Noemi",
+        "date_of_birth": "1995-07-14T22:00:00.000000Z",
+        "birth_place": "Palermo (PA)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 385,
+                "entry_suffix": null,
+                "inscripted_at": "21/07/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 242581,
+        "surname": "Abbate",
+        "first_name": "Martina",
+        "date_of_birth": "1992-12-08T23:00:00.000000Z",
+        "birth_place": "Ascoli Piceno (AP)",
+        "client_name": "Ancona Ascoli Piceno Fermo Macerata",
+        "special_register": [
+            {
+                "board_name": "Terapista occupazionale",
+                "entry_number": 23,
+                "entry_suffix": null,
+                "inscripted_at": "22/03/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 86737,
+        "surname": "Abbate",
+        "first_name": "Maria Lisa",
+        "date_of_birth": "1990-11-09T23:00:00.000000Z",
+        "birth_place": "Palermo (PA)",
+        "client_name": "Palermo",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 94,
+                "entry_suffix": null,
+                "inscripted_at": "27/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 981,
+        "surname": "Abbatecola",
+        "first_name": "Simona",
+        "date_of_birth": "1974-11-30T23:00:00.000000Z",
+        "birth_place": "Firenze (FI)",
+        "client_name": "Firenze Arezzo Prato Pistoia Lucca Massa-Carrara",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 796,
+                "entry_suffix": null,
+                "inscripted_at": "11/07/1996",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 161777,
+        "surname": "Abbatelli",
+        "first_name": "Marzia",
+        "date_of_birth": "1970-06-15T22:00:00.000000Z",
+        "birth_place": "Tivoli (RM)",
+        "client_name": "Roma",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 243,
+                "entry_suffix": null,
+                "inscripted_at": "10/06/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 149268,
+        "surname": "Abbatescianna",
+        "first_name": "Lucia",
+        "date_of_birth": "1978-02-04T23:00:00.000000Z",
+        "birth_place": "Varese (VA)",
+        "client_name": "Varese",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 131,
+                "entry_suffix": null,
+                "inscripted_at": "26/04/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 104657,
+        "surname": "Abbati",
+        "first_name": "Simone",
+        "date_of_birth": "1985-09-09T22:00:00.000000Z",
+        "birth_place": "Roma (RM)",
+        "client_name": "Roma",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 361,
+                "entry_suffix": null,
+                "inscripted_at": "28/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 41371,
+        "surname": "Abbati",
+        "first_name": "Silvia",
+        "date_of_birth": "1993-12-13T23:00:00.000000Z",
+        "birth_place": "San Severino Marche (MC)",
+        "client_name": "Perugia Terni",
+        "special_register": [
+            {
+                "board_name": "TSRM",
+                "entry_number": 818,
+                "entry_suffix": null,
+                "inscripted_at": "04/01/2017",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 243889,
+        "surname": "Abbati",
+        "first_name": "Paola",
+        "date_of_birth": "1964-08-05T23:00:00.000000Z",
+        "birth_place": "Parma (PR)",
+        "client_name": "Parma",
+        "special_register": [
+            {
+                "board_name": "Educatore professionale",
+                "entry_number": 50,
+                "entry_suffix": null,
+                "inscripted_at": "12/04/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 247783,
+        "surname": "Abbati",
+        "first_name": "Paola",
+        "date_of_birth": "1968-05-28T22:00:00.000000Z",
+        "birth_place": "Parma (PR)",
+        "client_name": "Parma",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Terapista della neuro e psicomotricità dell`età evolutiva",
+                "entry_number": 2,
+                "entry_suffix": null,
+                "inscripted_at": "09/06/2021",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 221666,
+        "surname": "Abbati",
+        "first_name": "Mirco",
+        "date_of_birth": "1971-04-21T23:00:00.000000Z",
+        "birth_place": "Foligno (PG)",
+        "client_name": "Perugia Terni",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 4,
+                "entry_suffix": null,
+                "inscripted_at": "05/08/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 130288,
+        "surname": "Abbati",
+        "first_name": "Fabrizio",
+        "date_of_birth": "1969-10-17T23:00:00.000000Z",
+        "birth_place": "Foligno (PG)",
+        "client_name": "Perugia Terni",
+        "special_register": [
+            {
+                "board_name": "Tecnico prevenzione ambiente e luoghi di lavoro",
+                "entry_number": 118,
+                "entry_suffix": null,
+                "inscripted_at": "13/03/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 222223,
+        "surname": "Abbati",
+        "first_name": "Doriana",
+        "date_of_birth": "1968-06-16T22:00:00.000000Z",
+        "birth_place": "Bastia Umbra (PG)",
+        "client_name": "Perugia Terni",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Educatore professionale",
+                "entry_number": 27,
+                "entry_suffix": null,
+                "inscripted_at": "24/08/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 209129,
+        "surname": "Abbati",
+        "first_name": "Davide",
+        "date_of_birth": "1980-07-10T22:00:00.000000Z",
+        "birth_place": "Cernusco sul Naviglio (MI)",
+        "client_name": "Milano Como Lecco Lodi Monza-Brianza Sondrio",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale ad esaurimento: Massofisioterapista",
+                "entry_number": 258,
+                "entry_suffix": null,
+                "inscripted_at": "26/03/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2000025894,
+        "surname": "Abbati",
+        "first_name": "Beatrice",
+        "date_of_birth": "2000-09-30T22:00:00.000000Z",
+        "birth_place": "Rimini (RN)",
+        "client_name": "Forlì-Cesena Rimini",
+        "special_register": [
+            {
+                "board_name": "Logopedista",
+                "entry_number": 185,
+                "entry_suffix": null,
+                "inscripted_at": "10/01/2024",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 134923,
+        "surname": "Abbati",
+        "first_name": "Alessandra",
+        "date_of_birth": "1959-02-03T23:00:00.000000Z",
+        "birth_place": "Bologna (BO)",
+        "client_name": "Bologna",
+        "special_register": [
+            {
+                "board_name": "Tecnico sanitario di laboratorio biomedico",
+                "entry_number": 145,
+                "entry_suffix": null,
+                "inscripted_at": "25/03/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    }
+]

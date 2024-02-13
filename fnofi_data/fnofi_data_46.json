@@ -1,0 +1,477 @@
+[
+    {
+        "person_id": 101222,
+        "surname": "Abbatelli",
+        "first_name": "Chiara",
+        "date_of_birth": "1983-01-04T23:00:00.000000Z",
+        "birth_place": "Jesi (AN)",
+        "client_name": "Marche",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 617,
+                "entry_suffix": null,
+                "inscripted_at": "24/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 93494,
+        "surname": "Abbati",
+        "first_name": "Tommaso",
+        "date_of_birth": "1996-04-18T22:00:00.000000Z",
+        "birth_place": "Bagno a Ripoli (FI)",
+        "client_name": "Ordine Fisioterapisti Firenze Arezzo Lucca Massa-Carrara Pistoia Prato",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1316,
+                "entry_suffix": null,
+                "inscripted_at": "10/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 85313,
+        "surname": "Abbati",
+        "first_name": "Francesca",
+        "date_of_birth": "1992-03-14T23:00:00.000000Z",
+        "birth_place": "Cernusco sul Naviglio (MI)",
+        "client_name": "OFI Milano Como Cremona Lecco Lodi Monza-Brianza Sondrio Varese",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1156,
+                "entry_suffix": null,
+                "inscripted_at": "28/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 138494,
+        "surname": "Abbati",
+        "first_name": "Fausta",
+        "date_of_birth": "1962-07-11T23:00:00.000000Z",
+        "birth_place": "Milano (MI)",
+        "client_name": "OFI Milano Como Cremona Lecco Lodi Monza-Brianza Sondrio Varese",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1992,
+                "entry_suffix": null,
+                "inscripted_at": "04/04/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 116220,
+        "surname": "Abbattista",
+        "first_name": "Teresa",
+        "date_of_birth": "1962-06-10T23:00:00.000000Z",
+        "birth_place": "Gravina in Puglia (BA)",
+        "client_name": "OFI Bari Barletta-Andria-Trani Taranto",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 836,
+                "entry_suffix": null,
+                "inscripted_at": "19/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 155437,
+        "surname": "Abbattista",
+        "first_name": "Rosanna",
+        "date_of_birth": "1964-10-04T23:00:00.000000Z",
+        "birth_place": "Corato (BA)",
+        "client_name": "OFI Bari Barletta-Andria-Trani Taranto",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1960,
+                "entry_suffix": null,
+                "inscripted_at": "15/05/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 2001003092,
+        "surname": "Abbattista",
+        "first_name": "Paolo Francesco",
+        "date_of_birth": "1999-08-08T22:00:00.000000Z",
+        "birth_place": "Bitonto (BA)",
+        "client_name": "OFI Bari Barletta-Andria-Trani Taranto",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 3073,
+                "entry_suffix": null,
+                "inscripted_at": "22/05/2023",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 110189,
+        "surname": "Abbiati",
+        "first_name": "Maria",
+        "date_of_birth": "1961-10-06T23:00:00.000000Z",
+        "birth_place": "Seregno (MB)",
+        "client_name": "OFI Milano Como Cremona Lecco Lodi Monza-Brianza Sondrio Varese",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1498,
+                "entry_suffix": null,
+                "inscripted_at": "07/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 102660,
+        "surname": "Abbiati",
+        "first_name": "Laura",
+        "date_of_birth": "1955-05-20T23:00:00.000000Z",
+        "birth_place": "Alessandria (AL)",
+        "client_name": "Piemonte Valle d'Aosta",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 645,
+                "entry_suffix": null,
+                "inscripted_at": "29/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 224309,
+        "surname": "Abbiati",
+        "first_name": "Giulia",
+        "date_of_birth": "1981-06-14T22:00:00.000000Z",
+        "birth_place": "Brescia (BS)",
+        "client_name": "Brescia Mantova",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1697,
+                "entry_suffix": null,
+                "inscripted_at": "15/09/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 77514,
+        "surname": "Abbiati",
+        "first_name": "Fabrizio",
+        "date_of_birth": "1977-06-14T22:00:00.000000Z",
+        "birth_place": "Pavia (PV)",
+        "client_name": "Pavia",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 58,
+                "entry_suffix": null,
+                "inscripted_at": "18/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 185862,
+        "surname": "Abbiati",
+        "first_name": "Daniele",
+        "date_of_birth": "1992-06-07T22:00:00.000000Z",
+        "birth_place": "Garbagnate Milanese (MI)",
+        "client_name": "OFI Milano Como Cremona Lecco Lodi Monza-Brianza Sondrio Varese",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 3957,
+                "entry_suffix": null,
+                "inscripted_at": "04/11/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 71587,
+        "surname": "Abbinante",
+        "first_name": "Prudenza",
+        "date_of_birth": "1979-08-15T22:00:00.000000Z",
+        "birth_place": "Bari (BA)",
+        "client_name": "OFI Bari Barletta-Andria-Trani Taranto",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 218,
+                "entry_suffix": null,
+                "inscripted_at": "12/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 227141,
+        "surname": "Abbinante",
+        "first_name": "Felice",
+        "date_of_birth": "1958-04-17T23:00:00.000000Z",
+        "birth_place": "Salve (LE)",
+        "client_name": "Ordine interprovinciale della professione sanitaria di fisioterapista di Brindisi e Lecce",
+        "special_register": [
+            {
+                "board_name": "Elenco speciale a esaurimento: Fisioterapista",
+                "entry_number": 3,
+                "entry_suffix": null,
+                "inscripted_at": "28/10/2020",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 149930,
+        "surname": "Abbondante",
+        "first_name": "Felice",
+        "date_of_birth": "1955-07-08T23:00:00.000000Z",
+        "birth_place": "Spinete (CB)",
+        "client_name": "Lazio",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 5448,
+                "entry_suffix": null,
+                "inscripted_at": "30/04/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 103971,
+        "surname": "Abbondanza",
+        "first_name": "Cristina",
+        "date_of_birth": "1968-01-11T23:00:00.000000Z",
+        "birth_place": "Roma (RM)",
+        "client_name": "Lazio",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 2367,
+                "entry_suffix": null,
+                "inscripted_at": "28/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 57732,
+        "surname": "Abbonizio",
+        "first_name": "Daniela",
+        "date_of_birth": "1976-02-07T23:00:00.000000Z",
+        "birth_place": "Lanciano (CH)",
+        "client_name": "Bologna Ferrara",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1141,
+                "entry_suffix": null,
+                "inscripted_at": "12/09/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 69758,
+        "surname": "Abbonizio",
+        "first_name": "Cinzia",
+        "date_of_birth": "1962-06-27T23:00:00.000000Z",
+        "birth_place": "Roma (RM)",
+        "client_name": "Lazio",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 427,
+                "entry_suffix": null,
+                "inscripted_at": "28/11/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 78846,
+        "surname": "Abbruzzese",
+        "first_name": "Roberta",
+        "date_of_birth": "1973-02-25T23:00:00.000000Z",
+        "birth_place": "Isola del Liri (FR)",
+        "client_name": "Lazio",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 1519,
+                "entry_suffix": null,
+                "inscripted_at": "20/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 120918,
+        "surname": "Abbruzzese",
+        "first_name": "Maria Rita",
+        "date_of_birth": "1969-02-18T23:00:00.000000Z",
+        "birth_place": "Conversano (BA)",
+        "client_name": "OFI Bari Barletta-Andria-Trani Taranto",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 920,
+                "entry_suffix": null,
+                "inscripted_at": "24/02/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 77238,
+        "surname": "Abbruzzese",
+        "first_name": "Manuel",
+        "date_of_birth": "1980-04-16T22:00:00.000000Z",
+        "birth_place": "Germania (EE)",
+        "client_name": "Cosenza",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 11,
+                "entry_suffix": null,
+                "inscripted_at": "19/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 257037,
+        "surname": "Abbruzzese",
+        "first_name": "Giacomo",
+        "date_of_birth": "1990-01-18T23:00:00.000000Z",
+        "birth_place": "Viterbo (VT)",
+        "client_name": "Lazio",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 9204,
+                "entry_suffix": null,
+                "inscripted_at": "08/01/2022",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 149175,
+        "surname": "Abbruzzese",
+        "first_name": "Antonio",
+        "date_of_birth": "1967-08-06T22:00:00.000000Z",
+        "birth_place": "Potenza (PZ)",
+        "client_name": "OFI Basilicata",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 443,
+                "entry_suffix": null,
+                "inscripted_at": "26/04/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 97359,
+        "surname": "Abbruzzese",
+        "first_name": "Alida",
+        "date_of_birth": "1990-03-26T22:00:00.000000Z",
+        "birth_place": "Cariati (CS)",
+        "client_name": "Bologna Ferrara",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 471,
+                "entry_suffix": null,
+                "inscripted_at": "17/01/2019",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    },
+    {
+        "person_id": 85883,
+        "surname": "Abbruzzese",
+        "first_name": "Alessia",
+        "date_of_birth": "1991-03-19T23:00:00.000000Z",
+        "birth_place": "Melfi (PZ)",
+        "client_name": "OFI Basilicata",
+        "special_register": [
+            {
+                "board_name": "Fisioterapista",
+                "entry_number": 71,
+                "entry_suffix": null,
+                "inscripted_at": "29/12/2018",
+                "state_name": "ISCRITTO",
+                "badge_class": "badge badge-success",
+                "is_with_reserve": false
+            }
+        ]
+    }
+]
