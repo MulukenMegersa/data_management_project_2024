@@ -1,0 +1,101 @@
+
+    {
+        "person_id_x":"50365",
+        "surname":"Abe",
+        "first_name":"STEFANO",
+        "date_of_birth":"25\/04\/1959",
+        "birth_place":"LECCO (LC)",
+        "province":" LECCO (LC)",
+        "full_name":"DOTT. BADESSI STEFANO",
+        "prefix":"DOTT.",
+        "iscrizioni":[
+            {
+                "province":"LECCO",
+                "year":"14\/12\/1993",
+                "number":"0000000824"
+            }
+        ],
+        "lauree":[
+            {
+                "university_name":"MILANO",
+                "name":"MEDICINA E CHIRURGIA",
+                "year":"16\/07\/1986"
+            }
+        ],
+        "abilitazioni":[
+            {
+                "university_name":"MILANO",
+                "name":"Medicina e Chirurgia",
+                "year":"1986",
+                "round":"2"
+            }
+        ],
+        "specializzazioni":[
+            {
+                "university_name":"MILANO",
+                "specializzazione_name":"CHIRURGIA GENERALE",
+                "year":"14\/11\/1991"
+            }
+        ],
+        "last_update_date":"20\/12\/2023",
+        "person_id_y":2001003213.0,
+        "client_name":"LECCO (LC)",
+        "special_register":[
+            {
+                "board_name":"Fisioterapista",
+                "entry_number":4837,
+                "entry_suffix":null,
+                "inscripted_at":"19\/05\/2023",
+                "state_name":"ISCRITTO",
+                "badge_class":"badge badge-success",
+                "is_with_reserve":false
+            }
+        ],
+        "_merge":"both"
+    }
+
+    {
+        "person_id_x":"50365",
+        "surname":"Abe5",
+        "first_name":"STEFANO",
+        "date_of_birth":"25\/04\/1959",
+        "birth_place":"LECCO (LC)",
+        "province":" LECCO (LC)",
+        "full_name":"DOTT. BADESSI STEFANO",
+        "prefix":"DOTT.",
+        "iscrizioni":[
+            {
+                "province":"LECCO",
+                "year":"14\/12\/1993",
+                "number":"0000000824"
+            }
+        ],
+        "lauree":[
+            {
+                "university_name":"MILANO",
+                "name":"MEDICINA E CHIRURGIA",
+                "year":"16\/07\/1986"
+            }
+        ],
+        "abilitazioni":[
+            {
+                "university_name":"MILANO",
+                "name":"Medicina e Chirurgia",
+                "year":"1986",
+                "round":"2"
+            }
+        ],
+        "specializzazioni":[
+            {
+                "university_name":"MILANO",
+                "specializzazione_name":"CHIRURGIA GENERALE",
+                "year":"14\/11\/1991"
+            }
+        ],
+        "last_update_date":"20\/12\/2023",
+        "person_id_y":null,
+        "client_name":null,
+        "special_register":null,
+        "_merge":"left_only"
+    }
+
